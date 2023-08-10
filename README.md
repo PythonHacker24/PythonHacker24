@@ -1,4 +1,4 @@
-# <h1 style="text-align: center;">Aditya Patil</h1>
+# <p style="text-align: center;">Aditya Patil</p>
 
 <!--
 **PythonHacker24/PythonHacker24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 ### Under Development
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonHacker24&show_icons=true&theme=dark)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hacker&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50&theme=radical)
