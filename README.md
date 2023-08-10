@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### Under Development
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonHacker24&show_icons=true&theme=dark)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hacker&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
