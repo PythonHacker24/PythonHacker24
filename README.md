@@ -1,4 +1,4 @@
-# Aditya Patil
+# <p style="text-align: center;">Aditya Patil</p>
 
 <!--
 **PythonHacker24/PythonHacker24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
