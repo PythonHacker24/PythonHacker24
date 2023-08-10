@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src= "https://gifdb.com/images/high/hacker-with-black-mask-0ghpmuaehzhd6e17.webp", height = "50">
+  <img src= "https://gifdb.com/images/high/hacker-with-black-mask-0ghpmuaehzhd6e17.webp", height = "400">
 </p>
 
 ### Under Development (Very low chances that I will ever make it)
