@@ -7,4 +7,4 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonHacker24&show_icons=true&theme=dark)
-![](https://github-profile-trophy.vercel.app/?username=pro-utkarshM&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=PythonHacker24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
