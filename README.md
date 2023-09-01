@@ -1,5 +1,5 @@
 <h1 align="center">
-  Under Development (Very low chances that I will ever make it) 
+  I am Aditya Patil and yes I code in Vim
 </h1>
 
 <p align="center">
