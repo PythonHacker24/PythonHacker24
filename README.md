@@ -1,4 +1,4 @@
-<h1 align=center> Developer - 👨‍💻 Aditya Patil ⌨️ - Hacker </h1>
+<h1 align=center> 🔥 Developer - ✨ Aditya Patil ✨  - Hacker 🔥 </h1>
 
 <p align=center>
 <img src="https://media.tenor.com/phzTPEhdWXMAAAAC/avengers-captain-america.gif", height=400px>
