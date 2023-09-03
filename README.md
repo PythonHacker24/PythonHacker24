@@ -1,7 +1,7 @@
 <h1 align=center> 🔥 Developer - ✨ Aditya Patil ✨  - Hacker 🔥 </h1>
 
 <p align=center>
-<img src="https://media.tenor.com/phzTPEhdWXMAAAAC/avengers-captain-america.gif", height=400px>
+<img src="https://media.tenor.com/phzTPEhdWXMAAAAC/avengers-captain-america.gif">
 </p>
 
 <h2 align=center> “I can do this all day.” - Captian America and Me the Whole Day </h2>
