@@ -6,6 +6,8 @@
 
 <h2 align=center> “I can do this all day.” - Captian America and Me the Whole Day </h2>
 
+<p align=center> An Computer Enthusiast and absoulute passionate Developer, Hacker, Explorer of system. Electronics and Electrical Engineer. From transmission lines to CPU Architecture, From mov instruction to cloud deployment, I consider all in my scope. I work in silence, in my space. Love to connect to techie people. </p>
+
 ## ⚡️ Tech Stack ⚡️
 
 ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
