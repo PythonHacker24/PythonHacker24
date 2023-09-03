@@ -34,28 +34,30 @@
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ![](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 
 ## 🔥 Social Links 🔥
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityapatil.my.canva.site/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-patil-260a631b2/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PythonHacker24)
-
-
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adityapatil24680@gmail.com)
 
 ## 🔎 About me 🔎
 
-🥷 I am a Ethical Hacker and a Cyber Security Enthusiast. 
+<h3 align=center> <i> 🏃‍♂️ Hustler Life Forever 🥤 </i> </h3>
 
-🛠️ I love learning Low Level languages 
+🥷 <b> I am a Ethical Hacker and a Cyber Security Enthusiast. </b>
 
-💾 Legacy Systems Enthusiast
+🛠️ <b> I love learning Low Level languages </b>
 
-🔙 Backend Developer 
+💾 <b> Legacy Systems Enthusiast </b>
 
-🔋 Electronics and IoT Systems
+🔙 <b> Backend Developer </b>
 
-⚡️ Electrical Engineer 
+🔋 <b> Electronics and IoT Systems </b>
+
+⚡️ <b> Electrical Engineer </b>
 
 # 📊 GitHub Stats: 📈
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PythonHacker24&theme=tokyonight&hide_border=false)<br/>
@@ -78,11 +80,13 @@
 <img src="https://media.tenor.com/yRmkbRzyNqoAAAAC/cocking-pistol-john-wick.gif">
 </p>
 
-<h3 align=center> 🤝 In search of Incrideble People, let make a team. Make this world a better place 🏃‍♂️ </h3> 
+<h3 align=center> 🤝 In search of Incredible People, let make a team. Make this world a better place 🏃‍♂️ </h3> 
 
 <p align=center>
 <img src="https://64.media.tumblr.com/fe45d63e61b201cd29758bca424cce97/tumblr_pf25vc2LHO1s9xw57o4_540.gif">
 </p>
+
+<h3 align=center> We have a Beast Inside. We have a Vision. Lets Bring it together. Lets Connect. Lets Build. </h3>
 
 ---
 
