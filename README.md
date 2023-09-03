@@ -69,5 +69,20 @@
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPythonHacker241212%2Fhit-counter)
 
+## 💫 Something Worth it 💫
+
+<h3 align=center> 🐞 Yup, bugs happen and I love cracking those nuts the whole day. Wanna help me, get in touch. Let's bang them together. 🕸️ </h3>
+<h4 align=center> 🤯 If you encounter a bug in my project, come on! let me know ❗️ </h4>
+
+<p align=center>
+<img src="https://media.tenor.com/yRmkbRzyNqoAAAAC/cocking-pistol-john-wick.gif">
+</p>
+
+<h3 align=center> 🤝 In search of Incrideble People, let make a team. Make this world a better place 🏃‍♂️ </h3> 
+
+<p align=center>
+<img src="https://64.media.tumblr.com/fe45d63e61b201cd29758bca424cce97/tumblr_pf25vc2LHO1s9xw57o4_540.gif">
+</p>
+
 ---
 
