@@ -53,6 +53,8 @@
 
 🛠️ <b> I love learning Low Level languages </b>
 
+🏗️ <b> Development and DevOps </b>
+
 💾 <b> Legacy Systems Enthusiast </b>
 
 🔙 <b> Backend Developer </b>
