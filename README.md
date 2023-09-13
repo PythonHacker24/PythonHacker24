@@ -87,7 +87,7 @@
 <img src="https://media.tenor.com/yRmkbRzyNqoAAAAC/cocking-pistol-john-wick.gif">
 </p>
 
-<h3 align=center> 🤝 In search of Incredible People, let make a team. Make this world a better place 🏃‍♂️ </h3> 
+<h3 align=center> 🤝 In search of Incredible People, lets make a team. Make this world a better place 🏃‍♂️ </h3> 
 
 <p align=center>
 <img src="https://64.media.tumblr.com/fe45d63e61b201cd29758bca424cce97/tumblr_pf25vc2LHO1s9xw57o4_540.gif">
