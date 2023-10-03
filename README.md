@@ -93,8 +93,5 @@
 <p align=center>
 <img src="https://64.media.tumblr.com/fe45d63e61b201cd29758bca424cce97/tumblr_pf25vc2LHO1s9xw57o4_540.gif">
 </p>
-
-<h3 align=center> We have a Beast Inside. We have a Vision. Lets Bring it together. Lets Connect. Lets Build. </h3>
-
 ---
 
