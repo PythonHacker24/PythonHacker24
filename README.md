@@ -55,13 +55,13 @@
 
 🥷 <b> I am a Ethical Hacker and a Cyber Security Enthusiast. </b>
 
-🛠️ <b> I love learning Low Level languages </b>
+🛠️ <b> I love learning Low Level ❤️ RUST </b>
 
-🏗️ <b> Development and DevOps </b>
+🏗️ <b> Development and DevSecOps </b>
 
 💾 <b> Legacy Systems Enthusiast </b>
 
-🔙 <b> Backend Developer </b>
+🔙 <b> Backend Developer and System Design </b>
 
 🔋 <b> Electronics and IoT Systems </b>
 
