@@ -51,7 +51,7 @@
 
 <h3 align=center> 🏃‍♂️ <i> Hustler Life Forever </i> 🥤 </h3>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
 🥷 <b> I am a Ethical Hacker and a Cyber Security Enthusiast. </b>
 
