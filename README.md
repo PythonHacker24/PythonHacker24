@@ -38,6 +38,7 @@
 ![](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ![](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 ## 🔥 Social Links 🔥
 
@@ -46,6 +47,7 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PythonHacker24)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adityapatil24680@gmail.com)
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22489362/aditya-patil)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Pyth0nHack3r/)
 
 ## 🔎 About me 🔎
 
@@ -68,14 +70,16 @@
 ⚡️ <b> Electrical Engineer </b>
 
 # 📊 GitHub Stats: 📈
-![](https://github-readme-streak-stats.herokuapp.com/?user=PythonHacker24&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PythonHacker24&theme=tokyonight)<br/>
 ---
-![](https://github-readme-stats.vercel.app/api?username=PythonHacker24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PythonHacker24&theme=tokyonight)<br/>
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PythonHacker24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PythonHacker24&theme=tokyonight)<br/>
+---
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PythonHacker24&theme=tokyonight)
 
 ## 🏆 GitHub Trophies ✨
-![](https://github-profile-trophy.vercel.app/?username=PythonHacker24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=PythonHacker24&theme=tokyonight&no-frame=false&no-bg=true&margin-w)
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPythonHacker241212%2Fhit-counter)
 
