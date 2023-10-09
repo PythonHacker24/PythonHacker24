@@ -72,7 +72,7 @@
 # 📊 GitHub Stats: 📈
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PythonHacker24&theme=tokyonight)<br/>
 ---
-![]()<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PythonHacker24&theme=tokyonight)<br/>
 ---
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PythonHacker24&theme=tokyonight)<br/>
 ---
