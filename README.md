@@ -6,7 +6,7 @@
 
 <h2 align=center> “I can do this all day.” - Captian America and Me the Whole Day </h2>
 
-<p align=center> An Computer Enthusiast and absolute passionate Developer, Hacker, and Explorer of Computer Systems. Electronics and Electrical Engineer. From transmission lines to CPU Architecture, From mov instruction to cloud deployment, I consider all in my scope. I work in silence, in my space. Love to connect with Techie People. </p>
+<p align=center> An Computer Enthusiast and absolute passionate Developer, Hacker, and Explorer of Computer Systems. Electronics and Electrical Engineer. From transmission lines to CPU Architecture, From mov instruction to cloud deployment, I consider all in my scope. I work in silence, in my space. </p>
 
 ## ⚡️ Tech Stack ⚡️
 
