@@ -61,6 +61,8 @@
 
 🛠️ <b> I love learning Low Level ❤️ RUST </b>
 
+⛓️ <b> Aspiring Blockchain Developer - Ethereum and Solidity </b>
+
 🏗️ <b> Development and DevSecOps </b>
 
 💾 <b> Legacy Systems Enthusiast </b>
