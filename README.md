@@ -1,10 +1,10 @@
 <h1 align=center> 🔥 Developer - ✨ Aditya Patil ✨  - Hacker 🔥 </h1>
 
 <p align=center>
-<img src="https://media.tenor.com/phzTPEhdWXMAAAAC/avengers-captain-america.gif">
+<img src="https://github.com/PythonHacker24/PythonHacker24/blob/main/desktop.png?raw=true">
 </p>
 
-<h2 align=center> “I can do this all day.” - Captian America and Me the Whole Day </h2>
+<h2 align=center> The best way to secure a computer is, with a pair of wire cutters </h2>
 
 <p align=center> An Computer Enthusiast and absolute passionate Developer, Hacker, and Explorer of Computer Systems. Electronics and Electrical Engineer. From transmission lines to CPU Architecture, From mov instruction to cloud deployment, I consider all in my scope. I work in silence, in my space. </p>
 
@@ -90,98 +90,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=PythonHacker24&theme=tokyonight&no-frame=false&no-bg=true&margin-w)
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPythonHacker241212%2Fhit-counter)
-
-## ⚡️ ARCH Installation Guide 🗡️
-
-```
-//// #### Arch Installation Guide #### ////
-
-// Setting up WiFi connection
-
-iwctl
-device list
-station "device" connect "SSID"
-
-// Time Date Settings 
-
-timedatectl set-ntp true
-
-// listing drive
-
-lsblk
-
-// Partition Management 
-
-cfdisk "disk path"
-
-/*
-1. Atleast 512MB for the BootLoader (512 MB works well)
-2. Rest for the Root Partition
-*/
-
-// Making the file partition 
-
-mkfs.ext4 "disk path"
-
-// path mounting 
-
-mount "installation partition (Ex. /dev/sda2)" /mnt 
-mkdir /mnt/boot
-mount "boot partition (Ex. /dev/sda1)" /mnt/boot
-
-// Essential Tools Installation  
-pacstrap /mnt base base-devel linux linux-firmware vim
-
-// FSTAB Generation
-genfstab -U /mnt >> /mnt/etc/fstab
-
-// Get the arch run up
-arch-chroot /mnt /bin/bash
-
-// Install Network-Manager and GRUB
-pacman -S networkmanager grub 
-
-// Enable the Network Manager 
-systemctl enable NetworkManager
-
-// GRUB installation
-grub-install /dev/sda (just the drive)
-
-// GRUB Configuration File Generation 
-grub-mkconfig -o /boot/grub/grub.cfg
-
-// Setting Passwork for the root user
-passwd 
-
-// Generating Locale 
-vim /etc/locale.gen
-(Uncomment the language to use)
-
-// Generate the Locale File 
-vim /etc/locale.conf
-LANG=en-US.UTF-8
-
-// Setting up the Hostname
-vim /etc/hostname 
-(add the hostname)
-
-// Setting up the hostname 
-ln -sf /usr/share/zoneinfo/<Region>/<Timezone>
-
-// Exit the CHROOT Environment
-exit
-
-// Unmount the installation medium
-umount -R /mnt
-
-// Reboot the system 
-reboot
-
-/*
-Boot into the installation drive and Arch is installed 
-*/
-```
-#### Why I have provided ARCH Installation Guide in the Intro? 
-Because installing Arch was one of the best times I had and it was a lot to learn from it. Now I think I have got a firmware for my every hardware server and customise as per my requirements. 
 
 
