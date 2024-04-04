@@ -1,4 +1,4 @@
-<h1 align=center> 🔥 Developer - ✨ Aditya Patil ✨  - Hacker 🔥 </h1>
+<h1 align=center> 🔥 Hacker - ✨ Aditya Patil ✨  - Developer 🔥 </h1>
 
 <p align=center>
 <img src="https://github.com/PythonHacker24/PythonHacker24/blob/main/desktop.png?raw=true">
@@ -6,7 +6,7 @@
 
 <h2 align=center> The best way to secure a computer is, with a pair of wire cutters </h2>
 
-<p align=center> An Computer Enthusiast and absolute passionate Developer, Hacker, and Explorer of Computer Systems. Electronics and Electrical Engineer. From transmission lines to CPU Architecture, From mov instruction to cloud deployment, I consider all in my scope. I work in silence, in my space. </p>
+<p align=center> I am a Hardware and Computer Hacker with a sense of developing softwares that help me and the whole community do that. I love Reverse Engineering devices and software to learn and expoit them eventually.</p>
 
 ## ⚡️ Tech Stack ⚡️
 
@@ -62,21 +62,19 @@
 
 <img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
-🥷 <b> I am a Ethical Hacker and a Cyber Security Enthusiast. </b>
+🥷 <b> I am a Ethical Hardware and Computer Hacker </b>
 
 🛠️ <b> I love learning Low Level ❤️ RUST </b>
 
-⛓️ <b> Aspiring Blockchain Developer - Ethereum and Solidity </b>
+🔍 <b> Reverse Engineering Electronic Circuits and Embedded Software </b>
 
 🏗️ <b> Development and DevSecOps </b>
 
-💾 <b> Legacy Systems Enthusiast </b>
+💾 <b> Love Exploring Legacy Systems </b>
 
 🔙 <b> Backend Developer and System Design </b>
 
-🔋 <b> Electronics and IoT Systems </b>
-
-⚡️ <b> Electrical Engineer </b>
+🔋 <b> Electronics and IoT Systems Developer </b>
 
 # 📊 GitHub Stats: 📈
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PythonHacker24&theme=tokyonight)<br/>
