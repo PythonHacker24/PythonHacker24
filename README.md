@@ -1,7 +1,7 @@
 <h1 align=center> 🔥 Hacker - ✨ Aditya Patil ✨  - Developer 🔥 </h1>
 
 <p align=center>
-<img src="https://github.com/PythonHacker24/PythonHacker24/blob/main/screenshot.png?raw=true">
+<img src="https://github.com/PythonHacker24/PythonHacker24/blob/main/desktop.png?raw=true">
 </p>
 
 <h2 align=center> The best way to secure a computer is, with a pair of wire cutters </h2>
