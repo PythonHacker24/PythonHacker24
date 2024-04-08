@@ -1,10 +1,10 @@
-<h1 align=center> 🔥 Hacker - ✨ Aditya Patil ✨  - Developer 🔥 </h1>
+<h1 align=center> ❄️ Hacker - ✨ Aditya Patil ✨  - Developer ❄️ </h1>
 
 <p align=center>
 <img src="https://github.com/PythonHacker24/PythonHacker24/blob/main/desktop.png?raw=true">
 </p>
 
-<h2 align=center> The best way to secure a computer is, with a pair of wire cutters </h2>
+<h2 align=center> Into Debian Linux Now (Need stability now, will miss Arch Linux for sometime) </h2>
 
 <p align=center> I am a Hardware and Computer Hacker with a sense of developing softwares that help me and the whole community do that. I love Reverse Engineering devices and software to learn and expoit them eventually.</p>
 
@@ -45,7 +45,7 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 
-## 🔥 Social Links 🔥
+## ⭐️ Social Links ⭐️
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pythonhacker24.github.io/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-patil-260a631b2/)
