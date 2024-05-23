@@ -76,6 +76,16 @@
 
 🔋 <b> Electronics and IoT Systems Developer </b>
 
+# 🚀 Platform Launch! 🚀
+
+![banner](https://github.com/PythonHacker24/theminimalistbook/raw/main/static/logo.png)
+
+GitHub Link: https://github.com/PythonHacker24/theminimalistbook
+
+Alpha Test Link: https://adityapatil.dev
+
+Minimalist Book is a platform for my writings on development, security and my thinkings about various topics. It's a place with no censorship or authority, free to use without trackers and ads. It's minimal and free of distractions for best experience of learning. 
+
 # 📊 GitHub Stats: 📈
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PythonHacker24&theme=tokyonight)<br/>
 ---
