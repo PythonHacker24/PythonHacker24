@@ -78,7 +78,7 @@
 
 # 🚀 Platform Launch! 🚀
 
-![banner](https://github.com/PythonHacker24/theminimalistbook/raw/main/static/logo.png)
+![banner](https://raw.githubusercontent.com/PythonHacker24/PythonHacker24/main/minimalist.png)
 
 GitHub Link: https://github.com/PythonHacker24/theminimalistbook
 
