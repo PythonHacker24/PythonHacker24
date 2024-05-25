@@ -82,7 +82,7 @@
 
 GitHub Link: https://github.com/PythonHacker24/theminimalistbook
 
-Alpha Test Link: https://adityapatil.dev
+Alpha Test Link: https://minimalistbook.com
 
 Minimalist Book is a platform for my writings on development, security and my thinkings about various topics. It's a place with no censorship or authority, free to use without trackers and ads. It's minimal and free of distractions for best experience of learning. 
 
