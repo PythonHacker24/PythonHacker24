@@ -1,10 +1,10 @@
 <h1 align=center> ❄️ Hacker - ✨ Aditya Patil ✨  - Developer ❄️ </h1>
 
 <p align=center>
-<img src="https://github.com/PythonHacker24/PythonHacker24/blob/main/desktop.png?raw=true">
+<img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1358.gif">
 </p>
 
-<h2 align=center> Into Debian Linux Now (Need stability now, will miss Arch Linux for sometime) </h2>
+<h2 align=center> I can do this all day - Captian America </h2>
 
 <p align=center> I am a Hardware and Computer Hacker with a sense of developing softwares that help me and the whole community do that. I love Reverse Engineering devices and software to learn and expoit them eventually.</p>
 
