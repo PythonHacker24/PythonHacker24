@@ -4,9 +4,9 @@
 <img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1358.gif">
 </p>
 
-<h2 align=center> I can do this all day - Captian America </h2>
+<h2 align=center> I can do this all day - Captain America </h2>
 
-<p align=center> I am a Hardware and Computer Hacker with a sense of developing softwares that help me and the whole community do that. I love Reverse Engineering devices and software to learn and expoit them eventually.</p>
+<p align=center> I am a Hardware and Computer Hacker with a sense of developing software that helps me and the whole community do that. I love Reverse Engineering devices and software to learn and exploit them eventually.</p>
 
 ## ⚡️ Tech Stack ⚡️
 
@@ -62,7 +62,7 @@
 
 <img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
-🥷 <b> I am a Ethical Hardware and Computer Hacker </b>
+🥷 <b> I am an Ethical Hardware and Computer Hacker </b>
 
 🛠️ <b> I love learning Low Level ❤️ RUST </b>
 
@@ -84,7 +84,7 @@ GitHub Link: https://github.com/PythonHacker24/theminimalistbook
 
 Alpha Test Link: https://minimalistbook.com
 
-Minimalist Book is a platform for my writings on development, security and my thinkings about various topics. It's a place with no censorship or authority, free to use without trackers and ads. It's minimal and free of distractions for best experience of learning. 
+Minimalist Book is a platform for my writing on development and security and my thinking on various topics. It's a place with no censorship or authority, free to use without trackers and ads, and minimal and free of distractions for the best learning experience. 
 
 # 📊 GitHub Stats: 📈
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PythonHacker24&theme=tokyonight)<br/>
