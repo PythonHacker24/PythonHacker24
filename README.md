@@ -4,7 +4,7 @@
 <img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1358.gif">
 </p>
 
-<h2 align=center> I can do this all day - Captain America </h2>
+<h2 align=center> I use Arch BTW </h2>
 
 <p align=center> I am a Hardware and Computer Hacker with a sense of developing software that helps me and the whole community do that. I love Reverse Engineering devices and software to learn and exploit them eventually.</p>
 
