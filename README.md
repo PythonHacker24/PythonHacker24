@@ -1,12 +1,16 @@
 <h1 align=center> ❄️ Hacker - ✨ Aditya Patil ✨  - Developer ❄️ </h1>
 
 <p align=center>
-<img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1358.gif">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWloanY0NG1xMndvcHc2aGVwcXRmY2V4ZXZzMWduejllbzJ5NzhuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VEWMXxo9rOpLyaRqcp/giphy.gif">
 </p>
 
-<h2 align=center> I am in love. With Golang </h2>
+<h2 align=center> I am in love. With Golang. </h2>
 
-<p align=center> I am a Hardware and Computer Hacker with a sense of developing software that helps me and the whole community do that. I love Reverse Engineering devices and software to learn and exploit them eventually.</p>
+<p align=center> I am a Hardware and Computer Hacker with a sense of developing software that helps me and the whole community do that. I love Reverse Engineering devices and software to learn and exploit them eventually. </p>
+
+<p align=center> I am also a researcher and published my first ever paper in IEEE 17th International Conference on Communications and Networks on Modbus Security (Industrial Control Systems) </p>
+
+<p align=center> Fun Fact: I also love playing football </p>
 
 ## ⚡️ Tech Stack ⚡️
 
@@ -15,7 +19,6 @@
 ![](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -47,6 +50,7 @@
 
 ## ⭐️ Social Links ⭐️
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityapatil24680)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pythonhacker24.github.io/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-patil-260a631b2/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PythonHacker24)
@@ -54,7 +58,6 @@
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22489362/aditya-patil)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Pyth0nHack3r/)
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityapatil24680)
 
 ## 🔎 About me 🔎
 
@@ -62,29 +65,31 @@
 
 <img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
+🔥 <b> I am a System Design Expert and Go developer </b>
+
 🥷 <b> I am an Ethical Hardware and Computer Hacker </b>
 
 🛠️ <b> I love learning Low Level ❤️ RUST </b>
 
 🔍 <b> Reverse Engineering Electronic Circuits and Embedded Software </b>
 
-🏗️ <b> Development and DevSecOps </b>
-
-💾 <b> Love Exploring Legacy Systems </b>
-
-🔙 <b> Backend Developer and System Design </b>
+💾 <b> Love Exploring Legacy Systems - I spend time building, opening the,m and building emulators </b>
 
 🔋 <b> Electronics and IoT Systems Developer </b>
 
-# 🚀 Platform Launch! 🚀
+# What am I working on?
 
-![banner](https://raw.githubusercontent.com/PythonHacker24/PythonHacker24/main/minimalist.png)
+I am actively building Stockic, a startup that is solving the problem of getting insights from finance news to help you make better decisions right in your palm. 
 
-GitHub Link: https://github.com/PythonHacker24/theminimalistbook
+Join the waitlist: https://getwaitlist.com/waitlist/23342
 
-Alpha Test Link: https://minimalistbook.com
+We cut the fluff out of the news and provide the information you need to make better financial decisions quickly. 
 
-Minimalist Book is a platform for my writing on development and security and my thinking on various topics. It's a place with no censorship or authority, free to use without trackers and ads, and minimal and free of distractions for the best learning experience. 
+Fun Fact: To understand the impact of getting to-the-point insights and the effects of fluff on your brain, I self-studied parts of neuroscience - There is so much work that needs to be put into removing distractions from news apps and providing data-driven insights. 
+
+It's an AI startup - I am wandering around, meeting people, and searching for VCs to fund this revolution. 
+
+Our GitHub: https://github.com/PythonHacker24
 
 # 📊 GitHub Stats: 📈
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PythonHacker24&theme=tokyonight)<br/>
@@ -98,4 +103,22 @@ Minimalist Book is a platform for my writing on development and security and my 
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPythonHacker241212%2Fhit-counter)
 
+## 🤔 FAQs 🤔
 
+#### Which Code Editor do I use? 
+Neovim Offcourse. It's the best. 
+
+#### Which OS do I use? 
+I use Arch btw on my desktop computer. While traveling, I have my Macbook in my backpack. 
+
+#### Why am I so diverse? 
+I love working on projects that build our future. I stay on a topic that interests me for some time and work hard to explore it further. Then, I find something else, but I stay connected to the previous ones. I don't like to miss out on anything. 
+
+#### What more do I do outside my computer? 
+I love reading books, especially business, philosophy, and novels. I also love playing football and running. In fact, I am an endurance runner and love running for miles.  
+
+#### What do I do when I get bored? 
+I watch Netflix and YouTube or have long discussions with my nerdy friends. 
+
+## My Favourite Books on Computing
+<i> Linux Kernel Development (Robert Love), Hacking: The Art of Exploitation (Jon Erickson), Linux in a Nutshell (Ellen Siever, Stephen Figgins, Robert Love, and Arnold Robbins), Linux Kernel in a Nutshell (Greg Kroah-Hartman), The Art of Electronics (Paul Horowitz and Winfield Hill), Nmap Cookbook (Nicholas Marsh) </i>
