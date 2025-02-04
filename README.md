@@ -79,6 +79,8 @@
 
 # What am I working on?
 
+![Copy of White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/3fbadf25-ae8b-4df8-8683-31b62e20c3c0)
+
 I am actively building Stockic, a startup that is solving the problem of getting insights from finance news to help you make better decisions right in your palm. 
 
 Join the waitlist: https://getwaitlist.com/waitlist/23342
@@ -92,8 +94,6 @@ It's an AI startup - I am wandering around, meeting people, and searching for VC
 Our GitHub: https://github.com/PythonHacker24
 
 # 📊 GitHub Stats: 📈
-![](https://github-readme-streak-stats.herokuapp.com/?user=PythonHacker24&theme=tokyonight)<br/>
----
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PythonHacker24&theme=tokyonight)<br/>
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PythonHacker24&theme=tokyonight)
@@ -112,7 +112,7 @@ Neovim Offcourse. It's the best.
 I use Arch btw on my desktop computer. While traveling, I have my Macbook in my backpack. 
 
 #### Why am I so diverse? 
-I love working on projects that build our future. I stay on a topic that interests me for some time and work hard to explore it further. Then, I find something else, but I stay connected to the previous ones. I don't like to miss out on anything. 
+I love working on projects that build our future. I stay on a topic that interests me for some time and work hard to explore it further. Then, I find something else but stay connected to the previous ones. I don't like to miss out on anything. 
 
 #### What more do I do outside my computer? 
 I love reading books, especially business, philosophy, and novels. I also love playing football and running. In fact, I am an endurance runner and love running for miles.  
@@ -120,5 +120,5 @@ I love reading books, especially business, philosophy, and novels. I also love p
 #### What do I do when I get bored? 
 I watch Netflix and YouTube or have long discussions with my nerdy friends. 
 
-## My Favourite Books on Computing
+## 📚 My Favourite Books on Computing ✍️
 <i> Linux Kernel Development (Robert Love), Hacking: The Art of Exploitation (Jon Erickson), Linux in a Nutshell (Ellen Siever, Stephen Figgins, Robert Love, and Arnold Robbins), Linux Kernel in a Nutshell (Greg Kroah-Hartman), The Art of Electronics (Paul Horowitz and Winfield Hill), Nmap Cookbook (Nicholas Marsh) </i>
