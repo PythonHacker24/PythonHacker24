@@ -77,7 +77,11 @@
 
 🔋 <b> Electronics and IoT Systems Developer </b>
 
-# What am I working on?
+# ⭐️ My Setup ⚡️
+
+![Setup](https://github.com/PythonHacker24/PythonHacker24/blob/main/2025-02-04_23-29-53.png?raw=true)
+
+# 🔥 What am I working on? 🛠️
 
 ![Copy of White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/3fbadf25-ae8b-4df8-8683-31b62e20c3c0)
 
