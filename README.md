@@ -77,6 +77,8 @@
 
 🔋 <b> Electronics and IoT Systems Developer </b>
 
+Here is my [CV](https://drive.google.com/file/d/1v-4dKEO0tt9ypu519-vnuBlXACWWsdQ7/view?usp=sharing)
+
 # ⭐️ My Setup ⚡️
 
 ![Setup](https://github.com/PythonHacker24/PythonHacker24/blob/main/2025-02-04_23-29-53.png?raw=true)
