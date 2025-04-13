@@ -12,6 +12,10 @@
 
 <p align=center> Fun Fact: I also love playing football </p>
 
+<p align=center> Join my Discord Server: https://discord.gg/wju3P5Gj </p>
+
+<p align=center> The discord channel is a space where I am most active and talk about all the dev stuff you might be interested in. Feel free to drop by and stay if you like there! </p>
+
 ## ⚡️ Tech Stack ⚡️
 
 ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
