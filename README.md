@@ -1,7 +1,7 @@
 <h1 align=center> ❄️ Hacker - ✨ Aditya Patil ✨  - Developer ❄️ </h1>
 
 <p align=center>
-<img width="400" height="400" src="https://go.dev/doc/gopher/fifteen.gif">
+<img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif">
 </p>
 
 <h2 align=center> I am in love. With Golang. </h2>
