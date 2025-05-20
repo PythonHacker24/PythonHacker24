@@ -10,11 +10,13 @@
 
 <p align=center> I am also a researcher and published my first ever paper in IEEE 17th International Conference on Communications and Networks on Modbus Security (Industrial Control Systems) </p>
 
+<p align=center> Read my blog: <a href="https://minimalistbook.com">https://minimalistbook.com</a> </p>
+
 <p align=center> Fun Fact: I also love playing football </p>
 
 <p align=center> Join my Discord Server: https://discord.gg/wju3P5Gj </p>
 
-<p align=center> The discord channel is a space where I am most active and talk about all the dev stuff you might be interested in. Feel free to drop by and stay if you like there! </p>
+<p align=center> The discord channel is where I am most active and talk about all the dev stuff you might be interested in. Feel free to drop by and stay if you like there! </p>
 
 ## ⚡️ Tech Stack ⚡️
 
