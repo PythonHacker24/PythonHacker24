@@ -4,19 +4,13 @@
 <img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif">
 </p>
 
-<h2 align=center> I am in love. With Golang. </h2>
+<h2 align=center> Proudly, a Gopher </h2>
 
-<p align=center> I am a Hardware and Computer Hacker with a sense of developing software that helps me and the whole community do that. I love Reverse Engineering devices and software to learn and exploit them eventually. </p>
-
-<p align=center> I am also a researcher and published my first ever paper in IEEE 17th International Conference on Communications and Networks on Modbus Security (Industrial Control Systems) </p>
+<p align=center> <b> I don't let my schooling interfere with my education </b></p>
 
 <p align=center> Read my blog: <a href="https://minimalistbook.com">https://minimalistbook.com</a> </p>
 
 <p align=center> Fun Fact: I also love playing football </p>
-
-<p align=center> Join my Discord Server: https://discord.gg/wju3P5Gj </p>
-
-<p align=center> The discord channel is where I am most active and talk about all the dev stuff you might be interested in. Feel free to drop by and stay if you like there! </p>
 
 ## ⚡️ Languages ⚡️
 
@@ -54,7 +48,12 @@
 
 ## 🚀 Community 🚀
 
+<b> Checkout my YouTube channel for software-related content </b>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@theracecondition)
+
+<b> Join my Discord community! </b>
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/f8bKmwqWkn)
 
 ## ⭐️ Social Links ⭐️
