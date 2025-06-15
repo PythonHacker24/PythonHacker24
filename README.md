@@ -46,22 +46,6 @@ Here is my [CV](https://drive.google.com/file/d/1v-4dKEO0tt9ypu519-vnuBlXACWWsdQ
 
 ![Setup](https://github.com/PythonHacker24/PythonHacker24/blob/main/2025-02-04_23-29-53.png?raw=true)
 
-# 🔥 What am I working on? 🛠️
-
-![Copy of White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/3fbadf25-ae8b-4df8-8683-31b62e20c3c0)
-
-I am actively building Stockic, a startup that is solving the problem of getting insights from finance news to help you make better decisions right in your palm. 
-
-Join the waitlist: https://getwaitlist.com/waitlist/23342
-
-We cut the fluff out of the news and provide the information you need to make better financial decisions quickly. 
-
-Fun Fact: To understand the impact of getting to-the-point insights and the effects of fluff on your brain, I self-studied parts of neuroscience - There is so much work that needs to be put into removing distractions from news apps and providing data-driven insights. 
-
-It's an AI startup - I am wandering around, meeting people, and searching for VCs to fund this revolution. 
-
-Our GitHub: https://github.com/PythonHacker24
-
 # 📊 GitHub Stats: 📈
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PythonHacker24&theme=tokyonight)<br/>
 ---
