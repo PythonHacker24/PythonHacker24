@@ -47,7 +47,9 @@ Here is my [CV](https://drive.google.com/file/d/1v-4dKEO0tt9ypu519-vnuBlXACWWsdQ
 ![Setup](https://github.com/PythonHacker24/PythonHacker24/blob/main/2025-02-04_23-29-53.png?raw=true)
 
 # 📊 GitHub Stats: 📈
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PythonHacker24&theme=tokyonight)<br/>
+
+![Aditya GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonHacker24&show_icons=true&theme=tokyonight)
+
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PythonHacker24&theme=tokyonight)
 
