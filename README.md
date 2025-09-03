@@ -8,9 +8,9 @@
 
 <p align=center> <b> I don't let my schooling interfere with my education </b></p>
 
-<p align=center> Read my blog: <a href="https://minimalistbook.com">https://minimalistbook.com</a> </p>
+<p align=center> Read all about me here: <a href="https://minimalistbook.com">Portfolio</a></p>
 
-<p align=center> Fun Fact: I also love playing football </p>
+<p align=center> GSoC'25 Project Page: <a href="https://pythonhacker24.github.io/gsoc-final-report-2025/">Vortex's Report Page</a></p>
 
 | **Category**                  | **Tech Stack**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
